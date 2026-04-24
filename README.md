@@ -1,4 +1,4 @@
-# YAHWEH YEHOSHUA 尺度不變性 יהוה יְהוֹשֻׁעַ Site
+# YAHWEH YEHOSHUA 尺度不變性 יהוה יְהוֹשֻׁעַ
 
 ## Project Documentation
 
