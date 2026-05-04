@@ -19,3 +19,11 @@ This shows that the methodology itself is the harmonic envelope which allows con
 Check out the "Open Source" page and click "Feng Shui Code Auditor" in the navigation bar to evaluate the feng shui of actual Javascript and TypeScript code.
   
 https://huggingface.co/chat/r/OTxcRk1?leafId=95b2d136-c72b-42c8-bb7c-323d718706c3 
+
+Democratization of CPU-Run Local LLMs on Older Devices found in the EdgeNode Page of the Website.
+
+Functional Use -
+https://harmony-ecosystem.replit.app/edge-node/
+
+Explanation and Development Details -
+https://harmony-ecosystem.replit.app/edge-node/about
