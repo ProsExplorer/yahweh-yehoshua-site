@@ -27,3 +27,6 @@ https://harmony-ecosystem.replit.app/edge-node/
 
 Explanation and Development Details -
 https://harmony-ecosystem.replit.app/edge-node/about
+
+For code examples see:
+https://github.com/YAHWEH-YEHOSHUA/Code_Health_Transform
